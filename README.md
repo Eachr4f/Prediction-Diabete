@@ -1,6 +1,6 @@
 # 🩺 Diabetes Prediction App
 <div align="center">
-  <img src=""C:\Users\AdMin\Desktop\Cours iddl\School project\AC_PFE\Images\Page_accueile.jpg"" alt="Accueil - Home Page" width="800"/>
+  <img src="Page_accueile.jpg" alt="Accueil - Home Page" width="800"/>
 </div>
 An intelligent web application that predicts the likelihood of diabetes using **11 Machine Learning algorithms** and an **Artificial Neural Network (ANN)**. This project combines data science and modern web technologies to deliver a fast and interactive user experience.
 
@@ -28,9 +28,13 @@ We implemented and compared the performance of the following models:
 10. AdaBoost
 11. Bagging
 12. Artificial Neural Network (ANN)
-
 📊 Models were evaluated using **Accuracy, Precision, Recall, and F1-Score**.
 
+### 📊 Pop up 
+<img src="Formulaire.png" alt="Prediction Result" width="800"/>
+
+### 📊 Prediction Result
+<img src="Non-Diabetique.png" alt="Prediction Result" width="800"/>
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
