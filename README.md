@@ -30,11 +30,12 @@ We implemented and compared the performance of the following models:
 12. Artificial Neural Network (ANN)
 📊 Models were evaluated using **Accuracy, Precision, Recall, and F1-Score**.
 
-### 📊 Pop up 
+### 📝 Pop up 
 <img src="Formulaire.png" alt="Prediction Result" width="800"/>
 
 ### 📊 Prediction Result
 <img src="Non-Diabetique.png" alt="Prediction Result" width="800"/>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -42,7 +43,7 @@ We implemented and compared the performance of the following models:
 - [Tailwind CSS](https://tailwindcss.com/)
 - HTML, CSS, JavaScript
 - [Framer Motion](https://www.framer.com/motion/) – for animations
-
+- 
 ### 🧪 Backend
 - [Flask](https://flask.palletsprojects.com/) – Python micro-framework for API and model handling
 - [Joblib](https://joblib.readthedocs.io/) – to load trained models
